@@ -237,6 +237,43 @@ flowchart TB
 - `FAQQuery` - Ask FAQ questions
 - `GetSupport` - Transfer to agent
 - `EndCall` - End the call
+
+
+
+Intent:
+get support
+file insurance claim
+call back
+transfer money
+check my claim status
+get policy info
+get insurance quote
+faq
+
+check balance
+
+ I want to check my balance
+What's my balance
+Balance inquiry
+Check balance
+Check my balance
+How much money do I have
+Show me my balance
+What is my account balance
+Tell me my balance
+ Balance check
+ Check my account
+ Account balance
+ What's in my account
+ How much do I have
+ Show balance
+ 
+END call
+no
+im done
+thats all
+nothing else
+
 📸 Screenshots
 DynamoDB Tables
 <img width="316" height="635" alt="image" src="https://github.com/user-attachments/assets/1fe471b0-aae4-444a-b8e3-f8459060d3d3" />
