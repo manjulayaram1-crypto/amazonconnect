@@ -237,3 +237,5 @@ flowchart TB
 - `FAQQuery` - Ask FAQ questions
 - `GetSupport` - Transfer to agent
 - `EndCall` - End the call
+📸 Screenshots
+<img width="316" height="635" alt="image" src="https://github.com/user-attachments/assets/1fe471b0-aae4-444a-b8e3-f8459060d3d3" />
