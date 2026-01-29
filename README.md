@@ -241,17 +241,19 @@ flowchart TB
 
 
 Intent:
-get support
-file insurance claim
-call back
-transfer money
-check my claim status
-get policy info
-get insurance quote
-faq
+
+| Intent | Sample Utterances |
+|--------|-------------------|
+| GetSupport | get support |
+| FileInsuranceClaim | file insurance claim |
+| RequestCallback | call back |
+| TransferMoney | transfer money |
+| claimstatus | check my claim status |
+| GetPolicyInfo | get policy info |
+| GetInsuranceQuote2 | get insurance quote |
+| FAQQuery | faq |
 
 check balance
-
  I want to check my balance
 What's my balance
 Balance inquiry
@@ -273,7 +275,6 @@ no
 im done
 thats all
 nothing else
-
 📸 Screenshots
 DynamoDB Tables
 <img width="316" height="635" alt="image" src="https://github.com/user-attachments/assets/1fe471b0-aae4-444a-b8e3-f8459060d3d3" />
@@ -288,12 +289,13 @@ Quote Completion Form
 Purchase Confirmation
 <img width="783" height="825" alt="image" src="https://github.com/user-attachments/assets/3ff4b057-0305-46f1-8d34-21cf54885e94" />
 
+🚀 Setup Instructions
+
+Import Contact Flow - Import auth_flow.json into Amazon Connect
 Create Lex Bots - Set up selfserbot and travel bots
 Deploy Lambda Functions - Deploy all Lambda functions
 Create DynamoDB Tables - Create the 8 required tables
 Configure S3 - Host the quote website on S3
 Setup SES - Configure email sending
-
-Purchase Confirmation
 
 
