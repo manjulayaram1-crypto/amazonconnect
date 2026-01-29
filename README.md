@@ -238,4 +238,25 @@ flowchart TB
 - `GetSupport` - Transfer to agent
 - `EndCall` - End the call
 📸 Screenshots
+DynamoDB Tables
 <img width="316" height="635" alt="image" src="https://github.com/user-attachments/assets/1fe471b0-aae4-444a-b8e3-f8459060d3d3" />
+
+Quote Email
+
+<img width="1035" height="730" alt="image" src="https://github.com/user-attachments/assets/817a4fa1-8b78-46b4-ab83-5ee3130fa63f" />
+
+Quote Completion Form
+
+<img width="883" height="947" alt="image" src="https://github.com/user-attachments/assets/14371daa-e625-498b-a10a-e09fbaeb3fd0" />
+Purchase Confirmation
+<img width="783" height="825" alt="image" src="https://github.com/user-attachments/assets/3ff4b057-0305-46f1-8d34-21cf54885e94" />
+
+Create Lex Bots - Set up selfserbot and travel bots
+Deploy Lambda Functions - Deploy all Lambda functions
+Create DynamoDB Tables - Create the 8 required tables
+Configure S3 - Host the quote website on S3
+Setup SES - Configure email sending
+
+Purchase Confirmation
+
+
