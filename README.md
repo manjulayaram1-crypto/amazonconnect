@@ -227,16 +227,6 @@ flowchart TB
 
 ## 📝 Supported Intents
 
-- `checkbalance` - Check account balance
-- `GetInsuranceQuote2` - Get insurance quote
-- `GetPolicyInfo` - Get policy information
-- `claimstatus` - Check claim status
-- `TransferMoney` - Transfer funds
-- `FileInsuranceClaim` - File new claim
-- `RequestCallback` - Request callback
-- `FAQQuery` - Ask FAQ questions
-- `GetSupport` - Transfer to agent
-- `EndCall` - End the call
 
 
 
@@ -251,7 +241,10 @@ Intent:
 | claimstatus | check my claim status |
 | GetPolicyInfo | get policy info |
 | GetInsuranceQuote2 | get insurance quote |
-| FAQQuery | faq |
+| FAQQuery | faq | help  |
+| check balance | Check balance | Balance inquiry  |
+END call | im done | nothing else |
+
 
 check balance
  I want to check my balance
