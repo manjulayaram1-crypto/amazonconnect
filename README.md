@@ -231,6 +231,8 @@ flowchart TB
 
 
 Intent:
+| Toll free number | +1855 522 6001 |
+
 
 | Intent | Sample Utterances |
 |--------|-------------------|
